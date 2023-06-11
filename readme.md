@@ -9,7 +9,7 @@ You now have access to an API that handles request with a json body of the form 
 
 Info : 
 On view.html
-A red result means it's main stat with meta engraving
-A black result means it's main stat with off-meta engraving
-A red faded (low opacity) result means it's sub-stat with meta engraving
-A black faded result means it's sub-stat with off-meta engraving
+- A red result means it's main stat with meta engraving
+- A black result means it's main stat with off-meta engraving
+- A red faded (low opacity) result means it's sub-stat with meta engraving
+- A black faded result means it's sub-stat with off-meta engraving
