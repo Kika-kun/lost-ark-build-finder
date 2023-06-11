@@ -1,0 +1,1797 @@
+[
+    {
+        "name": "Support Artist",
+        "stats": [
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            },
+            {
+                "name": "Spec",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Full Bloom",
+                "importance": "meta"
+            },
+            {
+                "name": "Awakening",
+                "importance": "meta"
+            },
+            {
+                "name": "Expert",
+                "importance": "meta"
+            },
+            {
+                "name": "Vital Point Hit",
+                "importance": "meta"
+            },
+            {
+                "name": "Heavy Armor",
+                "importance": "meta"
+            },
+            {
+                "name": "Drops of Ether",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Death Strike Sharpshooter",
+        "stats": [
+            {
+                "name": "Crit",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Death Strike",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Mass Increase",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Punisher Slayer",
+        "stats": [
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Punisher",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Mass Increase",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Esoteric Striker",
+        "stats": [
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            },
+            {
+                "name": "Spec",
+                "importance": "sub"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Esoteric Flurry",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            }
+        ]
+    },
+    {
+        "name": "Hunger Reaper",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Hunger",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "CO Summoner",
+        "stats": [
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Communication Overflow",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Master Summoner",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Master Summoner",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Master Summoner",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Awakening",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Predator Slayer",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Predator",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Mass Increase",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Taijutsu Scrapper",
+        "stats": [
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "main"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Ultimate Skill: Taijutsu",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Shock Training Scrapper",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Shock Training",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Support Paladin",
+        "stats": [
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            },
+            {
+                "name": "Spec",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Blessed Aura",
+                "importance": "meta"
+            },
+            {
+                "name": "Awakening",
+                "importance": "meta"
+            },
+            {
+                "name": "Expert",
+                "importance": "meta"
+            },
+            {
+                "name": "Vital Point Hit",
+                "importance": "meta"
+            },
+            {
+                "name": "Drops of Ether",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Magick Stream",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Heavy Armor",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Berserkers Technique",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Berserkers Technique",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Mass Increase",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Awakening",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Mayhem Berserker",
+        "stats": [
+            {
+                "name": "Crit",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Mayhem",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Masters Tenacity",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Lone Knight GL",
+        "stats": [
+            {
+                "name": "Crit",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Lone Knight",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Super Charge",
+                "importance": "meta"
+            },
+            {
+                "name": "Master Brawler",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Combat Readiness",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Combat Readiness GL",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Combat Readiness",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Barricade",
+                "importance": "meta"
+            },
+            {
+                "name": "Stabilized Status",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Demonic Impulse SH",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Demonic Impulse",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Perfect Suppression SH",
+        "stats": [
+            {
+                "name": "Crit",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Perfect Suppression",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Mass Increase",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Remaining Energy DB",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Remaining Energy",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Super Charge",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Surge DB",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Surge",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Sharpshooter Death Strike",
+        "stats": [
+            {
+                "name": "Crit",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Death Strike",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Deathblow Striker",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Deathblow",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "First Intention WD",
+        "stats": [
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "First Intention",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Mass Increase",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Awakening",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Esoteric WD",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Esoteric Skill Enhancement",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Mass Increase",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Peacemaker GS",
+        "stats": [
+            {
+                "name": "Crit",
+                "importance": "main"
+            },
+            {
+                "name": "Spec",
+                "importance": "main"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Peacemaker",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "TTH GS",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Time to Hunt",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "EW Deadeye",
+        "stats": [],
+        "engravings": [
+            {
+                "name": "",
+                "importance": "meta"
+            }
+        ]
+    },
+    {
+        "name": "Pistoleer Deadeye",
+        "stats": [],
+        "engravings": [
+            {
+                "name": "",
+                "importance": "meta"
+            }
+        ]
+    },
+    {
+        "name": "FPE Artillerist",
+        "stats": [
+            {
+                "name": "Crit",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Fire Power Enhancement",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "RS SF",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Robust Spirit",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Precise Dagger",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Awakening",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Igniter Sorc",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Igniter",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "All Out Attack",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            }
+        ]
+    },
+    {
+        "name": "Support Bard",
+        "stats": [
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            },
+            {
+                "name": "Spec",
+                "importance": "main"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Desperate Salvation",
+                "importance": "meta"
+            },
+            {
+                "name": "Awakening",
+                "importance": "meta"
+            },
+            {
+                "name": "Expert",
+                "importance": "meta"
+            },
+            {
+                "name": "Vital Point Hit",
+                "importance": "meta"
+            },
+            {
+                "name": "Heavy Armor",
+                "importance": "meta"
+            },
+            {
+                "name": "Drops of Ether",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "EO SF",
+        "stats": [
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Energy Overflow",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Mass Increase",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Rage Hammer Destroyer",
+        "stats": [
+            {
+                "name": "Crit",
+                "importance": "main"
+            },
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Rage Hammer",
+                "importance": "meta"
+            },
+            {
+                "name": "Super Charge",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Barricade",
+                "importance": "meta"
+            },
+            {
+                "name": "Master Brawler",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "EL Scooter",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Evolutionary Legacy",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Barricade",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Arthetinean Scooter",
+        "stats": [
+            {
+                "name": "Crit",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Arthetinean Skill",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Mass Increase",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Control Glavier",
+        "stats": [
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Control",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Pinnacle Glavier",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "sub"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Pinnacle",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Mass Increase",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Reflux sorc",
+        "stats": [
+            {
+                "name": "Crit",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Reflux",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Empress Arcana",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Empress Grace",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Barricade",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Emperor Arcana",
+        "stats": [
+            {
+                "name": "Swiftness",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Order of the Emperor",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Mass Increase",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Barrage Arty",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Barrage Enhancement",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "All Out Attack",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Lunar Voice Reaper",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Lunar Voice",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            }
+        ]
+    },
+    {
+        "name": "GT Destroyer",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Gravity Training",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Barricade",
+                "importance": "meta"
+            },
+            {
+                "name": "Master Brawler",
+                "importance": "meta"
+            },
+            {
+                "name": "Spirit Absorption",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            }
+        ]
+    }
+]

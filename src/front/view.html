@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .substat-only {
+                opacity: 0.4;
+            }
+
+            .meta-engravings {
+                color: red;
+            }
+        </style>
+        <title>Fun times</title>
+    </head>
+    <body>
+        <h2>Find builds that you could sell an item to</h2>
+        <script src="fetch.js"></script>
+        <div>
+            <label for="engraving-1">Engraving #1</label> : <input type="text" name="engraving-1" id="engraving-1" /><br>
+            <label for="engraving-2">Engraving #2</label> : <input type="text" name="engraving-2" id="engraving-2" /><br>
+            <label for="stat-1">Stat #1</label> : <input type="text" name="stat-1" id="stat-1" /><br>
+            <label for="stat-1">Stat #2</label> : <input type="text" name="stat-2" id="stat-2" /><br>
+            <button onclick="fetchBuilds()">Find</button>
+        </div>
+        <div id="results">
+            <!-- To fill after fetching -->
+        </div>
+    </body>
+</html>
