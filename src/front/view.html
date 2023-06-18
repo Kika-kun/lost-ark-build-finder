@@ -2,6 +2,9 @@
 <html>
     <head>
         <style>
+            body * {
+                font-family: Arial;
+            }
             .substat-only {
                 opacity: 0.4;
             }
@@ -9,12 +12,16 @@
             .meta-engravings {
                 color: red;
             }
+
+            .build-name:hover {
+                cursor: default;
+            }
         </style>
         <title>Fun times</title>
     </head>
     <body>
         <h2>Find builds that you could sell an item to</h2>
-        <script src="fetch.js"></script>
+        
         <div>
             <label for="engraving-1">Engraving #1</label> : <input type="text" name="engraving-1" id="engraving-1" /><br>
             <label for="engraving-2">Engraving #2</label> : <input type="text" name="engraving-2" id="engraving-2" /><br>
@@ -25,5 +32,11 @@
         <div id="results">
             <!-- To fill after fetching -->
         </div>
+        
+        <!-- Tooltips -->
+        <script src="https://unpkg.com/@popperjs/core@2"></script>
+        <script src="https://unpkg.com/tippy.js@6"></script>
+        <!-- EH -->
+        <script src="fetch.js"></script>
     </body>
 </html>
