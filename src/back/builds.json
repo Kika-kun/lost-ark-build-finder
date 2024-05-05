@@ -85,11 +85,11 @@
         "name": "Punisher Slayer",
         "stats": [
             {
-                "name": "Swiftness",
+                "name": "Spec",
                 "importance": "main"
             },
             {
-                "name": "Crit",
+                "name": "Swift",
                 "importance": "sub"
             }
         ],
@@ -128,15 +128,15 @@
         "name": "Esoteric Striker",
         "stats": [
             {
-                "name": "Swiftness",
+                "name": "Spec",
                 "importance": "main"
             },
             {
-                "name": "Spec",
+                "name": "Crit",
                 "importance": "sub"
             },
             {
-                "name": "Crit",
+                "name": "Swift",
                 "importance": "sub"
             }
         ],
@@ -292,7 +292,7 @@
         "name": "Predator Slayer",
         "stats": [
             {
-                "name": "Spec",
+                "name": "Swift",
                 "importance": "main"
             },
             {
@@ -336,7 +336,7 @@
             },
             {
                 "name": "Crit",
-                "importance": "main"
+                "importance": "sub"
             }
         ],
         "engravings": [
@@ -350,11 +350,11 @@
             },
             {
                 "name": "Keen Blunt Weapon",
-                "importance": "meta"
+                "importance": "off-meta"
             },
             {
                 "name": "Cursed Doll",
-                "importance": "meta"
+                "importance": "off-meta"
             },
             {
                 "name": "Ambush Master",
@@ -457,6 +457,10 @@
             {
                 "name": "Heavy Armor",
                 "importance": "off-meta"
+            },
+            {
+                "name": "Judgment",
+                "importance": "off-meta"
             }
         ]
     },
@@ -506,7 +510,7 @@
                 "importance": "off-meta"
             },
             {
-                "name": "Awakening",
+                "name": "Adrenaline",
                 "importance": "off-meta"
             }
         ]
@@ -635,8 +639,8 @@
                 "importance": "meta"
             },
             {
-                "name": "Hit Master",
-                "importance": "off-meta"
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
             }
         ]
     },
@@ -683,7 +687,7 @@
             },
             {
                 "name": "Raid Captain",
-                "importance": "off-meta"
+                "importance": "meta"
             },
             {
                 "name": "Ether Predator",
@@ -733,6 +737,10 @@
                 "importance": "off-meta"
             },
             {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
                 "name": "Ether Predator",
                 "importance": "off-meta"
             }
@@ -776,6 +784,10 @@
                 "importance": "meta"
             },
             {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
                 "name": "Ether Predator",
                 "importance": "off-meta"
             }
@@ -804,7 +816,7 @@
             },
             {
                 "name": "Cursed Doll",
-                "importance": "meta"
+                "importance": "off-meta"
             },
             {
                 "name": "Keen Blunt Weapon",
@@ -819,8 +831,8 @@
                 "importance": "meta"
             },
             {
-                "name": "Cursed Doll",
-                "importance": "off-meta"
+                "name": "Raid Captain",
+                "importance": "meta"
             },
             {
                 "name": "Ether Predator",
@@ -829,7 +841,7 @@
         ]
     },
     {
-        "name": "Sharpshooter Death Strike",
+        "name": "Sharpshooter Loyal Companion",
         "stats": [
             {
                 "name": "Crit",
@@ -837,12 +849,16 @@
             },
             {
                 "name": "Swiftness",
-                "importance": "sub"
+                "importance": "main"
+            },
+            {
+                "name": "Spec",
+                "importance": "main"
             }
         ],
         "engravings": [
             {
-                "name": "Death Strike",
+                "name": "Loyal Companion",
                 "importance": "meta"
             },
             {
@@ -862,7 +878,15 @@
                 "importance": "meta"
             },
             {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
                 "name": "Adrenaline",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
                 "importance": "off-meta"
             }
         ]
@@ -945,7 +969,7 @@
             },
             {
                 "name": "Ambush Master",
-                "importance": "off-meta"
+                "importance": "meta"
             },
             {
                 "name": "Cursed Doll",
@@ -970,8 +994,12 @@
             },
             {
                 "name": "Swiftness",
-                "importance": "main"
-            }
+                "importance": "sub"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }            
         ],
         "engravings": [
             {
@@ -995,15 +1023,15 @@
                 "importance": "meta"
             },
             {
-                "name": "Ambush Master",
-                "importance": "meta"
-            },
-            {
                 "name": "Mass Increase",
                 "importance": "meta"
             },
             {
                 "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
                 "importance": "off-meta"
             }
         ]
@@ -1100,21 +1128,99 @@
     },
     {
         "name": "EW Deadeye",
-        "stats": [],
+        "stats": [ 
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "sub"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
         "engravings": [
             {
-                "name": "",
+                "name": "Enhanced Weapon",
                 "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Ambush Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
             }
         ]
     },
     {
         "name": "Pistoleer Deadeye",
-        "stats": [],
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Swiftness",
+                "importance": "sub"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
         "engravings": [
             {
-                "name": "",
+                "name": "Pistoleer",
                 "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Precise Dagger",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Propulsion",
+                "importance": "off-meta"
             }
         ]
     },
@@ -1158,6 +1264,10 @@
             {
                 "name": "Cursed Doll",
                 "importance": "off-meta"
+            },
+            {
+                "name": "Barrage Enhancement",
+                "importance": "off-meta"
             }
         ]
     },
@@ -1195,11 +1305,11 @@
                 "importance": "meta"
             },
             {
-                "name": "Precise Dagger",
-                "importance": "off-meta"
+                "name": "Mass Increase",
+                "importance": "meta"
             },
             {
-                "name": "Awakening",
+                "name": "Ether Predator",
                 "importance": "off-meta"
             }
         ]
@@ -1316,8 +1426,8 @@
                 "importance": "meta"
             },
             {
-                "name": "Keen Blunt Weapon",
-                "importance": "meta"
+                "name": "Ether Predator",
+                "importance": "off-meta"
             },
             {
                 "name": "Cursed Doll",
@@ -1790,6 +1900,268 @@
             },
             {
                 "name": "Cursed Doll",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Full Moon SE",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Full Moon Harvester",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Night's edge SE",
+        "stats": [
+            {
+                "name": "Crit",
+                "importance": "main"
+            },
+            {
+                "name": "Swift",
+                "importance": "main"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Night's Edge",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Windfury Aero",
+        "stats": [
+            {
+                "name": "Swift",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "main"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Windfury",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Drizzle Aero",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "sub"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Drizzle",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "Sura Breaker",
+        "stats": [
+            {
+                "name": "Crit",
+                "importance": "main"
+            },
+            {
+                "name": "Swift",
+                "importance": "main"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Asura's Path",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Master Brawler",
+                "importance": "meta"
+            },
+            {
+                "name": "Raid Captain",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "off-meta"
+            },
+            {
+                "name": "Ether Predator",
+                "importance": "off-meta"
+            }
+        ]
+    },
+    {
+        "name": "King Fist Breaker",
+        "stats": [
+            {
+                "name": "Spec",
+                "importance": "main"
+            },
+            {
+                "name": "Crit",
+                "importance": "main"
+            }
+        ],
+        "engravings": [
+            {
+                "name": "Brawl King Storm",
+                "importance": "meta"
+            },
+            {
+                "name": "Grudge",
+                "importance": "meta"
+            },
+            {
+                "name": "Super Charge",
+                "importance": "meta"
+            },
+            {
+                "name": "Hit Master",
+                "importance": "meta"
+            },
+            {
+                "name": "Cursed Doll",
+                "importance": "meta"
+            },
+            {
+                "name": "Keen Blunt Weapon",
+                "importance": "meta"
+            },
+            {
+                "name": "Adrenaline",
+                "importance": "meta"
+            },
+            {
+                "name": "Ether Predator",
                 "importance": "off-meta"
             }
         ]
