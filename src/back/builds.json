@@ -2085,7 +2085,7 @@
             },
             {
                 "name": "Swift",
-                "importance": "main"
+                "importance": "sub"
             }
         ],
         "engravings": [
@@ -2111,7 +2111,7 @@
             },
             {
                 "name": "Keen Blunt Weapon",
-                "importance": "off-meta"
+                "importance": "meta"
             },
             {
                 "name": "Ether Predator",
